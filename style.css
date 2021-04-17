@@ -375,6 +375,13 @@ section .title::after{
 .skills-content .right .php::before{
     width: 50%;
 }
+.skills-content .right .spring::before{
+    width: 50%;
+}
+.skills-content .right .django::before{
+    width: 70%;
+}
+
 .skills-content .right .mysql::before{
     width: 70%;
 }
@@ -536,6 +543,13 @@ section .title::after{
 .right form .button-area button:hover{
   color: #7CFCB7;
   background: none;
+}
+.success{
+    color: white;
+    width: 100%;
+    background-color: #7CFCB7;
+    text-align: center;
+  
 }
 /* footer section styling */
 footer{
